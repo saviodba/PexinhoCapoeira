@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto',-apple-system, BlinkMacSystemFont, 'Segoe UI',  'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+}
+
+body{
+    
+}
+
+header{    
+    height: 40px;    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(39, 10, 16);  
+}
+
+header nav {
+    width: 100%;
+    padding: 50px 50px;
+    display: flex
+    
+    ;
+    justify-content: center;
+}
+
+header nav menu ul{
+    display: flex;
+    list-style: none; 
+    justify-content: space-between;      
+    margin: 0;
+    padding: 0;
+}
+
+header nav menu ul li{
+    margin: 10px;
+    color: white;
+}
+
+header nav menu ul li:hover{
+    cursor: pointer;
+}
+
+.capa{
+    height: 100vh;
+    width: 100%;
+    background-color: rgb(39, 10, 16);    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.itens-capa{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    width: 90%;
+
+}
+
+.itens-capa h1{
+    font-size: 3.5rem;
+    color: rgb(240, 205, 6);
+    text-transform: uppercase;
+}
+
+.itens-capa h3{
+    color: white;
+    font-size: 2rem;
+}
+
+.titulo-capa{
+    text-align: center;
+}
+
+.titulo-capa span{
+    color: white;
+
+}
