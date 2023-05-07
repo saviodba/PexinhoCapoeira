@@ -1,10 +1,10 @@
 # Bem-vindo(a) ao Meu Repositório!
 
 ## Visão Geral
-Este repositório contém o código-fonte e os arquivos relacionados a [seu projeto]. Aqui você encontrará todas as informações necessárias para entender, contribuir e executar o projeto de maneira eficiente.
+Este repositório contém o código-fonte e os arquivos relacionados a PexinhoCapoeira 
 
 ## Sobre o Projeto
-Desenvolvido em Html/Css/Js puro, se utilização de outros frameworks e/ou bibliotecas 
+Landing Page desenvolvida em Html/Css/Js puro, sem utilização de outros frameworks e/ou bibliotecas 
 
 
 ## Contribuição
